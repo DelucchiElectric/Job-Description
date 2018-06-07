@@ -15,7 +15,7 @@ We are looking for an intern to help develop a desktop application.
 * Experience with or willingness to learn the [Rust](https://www.rust-lang.org/en-US/) programming language
 * Good creative problem solving skills
 
-##### Recommended Skills
+##### Desired Skills
 
 * Experience with SQL databases
 * Experience with serialization and json
