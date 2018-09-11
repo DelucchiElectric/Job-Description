@@ -15,5 +15,4 @@ REQUIREMENTS
 
 BONUS SKILLS
 * Experience with SQL databases
-* Experience with serialization and json
-* Web development experience
+* Experience with network programming
