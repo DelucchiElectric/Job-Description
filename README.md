@@ -18,3 +18,7 @@ BONUS SKILLS
 * Experience with SQL databases
 * Experience with network programming
 * Knowledge of Git
+
+CONTACT
+* kai.schmidt@delucchielectric.com
+* mike@delucchielectric.com
