@@ -22,3 +22,4 @@ BONUS SKILLS
 CONTACT
 * kai.schmidt@delucchielectric.com
 * mike@delucchielectric.com
+* bill@delucchielectric.com
